@@ -34,3 +34,13 @@ function saludarNombreGenero(nombre, genero) {
     }
     return `Hola, ${nombre} (${genero})!`;
 }
+
+function saludarNombreEdad(nombre, edad) {
+    if (typeof nombre !== 'string' || nombre.trim() === '') {
+        throw new Error('El nombre debe ser una cadena no vacía');
+    }
+    if (typeof edad !== 'number' || edad < 0) {
+        throw new Error('La edad debe ser un número positivo');
+    }
+    return `Hola, ${nombre}! Tienes ${edad} años.`;
+}

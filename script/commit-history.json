@@ -57,11 +57,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "05284b515726239dc7da5e75da1d5991ebb2bc48",
     "author": "Ostin",
     "commit": {
       "date": "2025-08-21T12:37:06.000Z",
       "message": "Feat: saludar por nombre y genero",
+      "url": "https://github.com/pololi15/IngSoftware3/commit/05284b515726239dc7da5e75da1d5991ebb2bc48"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-21T12:38:45.000Z",
+      "message": "Feat: saludar por nombre y edad",
       "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
     },
     "stats": {
