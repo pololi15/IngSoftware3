@@ -76,16 +76,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "84851c6f336b649a19d4c588b13213d2aab77f89",
     "author": "Ostin",
     "commit": {
       "date": "2025-08-21T12:38:45.000Z",
       "message": "Feat: saludar por nombre y edad",
-      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+      "url": "https://github.com/pololi15/IngSoftware3/commit/84851c6f336b649a19d4c588b13213d2aab77f89"
     },
     "stats": {
       "total": 10,
       "additions": 10,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-21T12:39:53.000Z",
+      "message": "saludar en espaniol",
+      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
       "deletions": 0,
       "date": "2025-08-21"
     },
