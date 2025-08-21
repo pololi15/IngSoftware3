@@ -11,3 +11,16 @@ function saludar(nombre) {
     }
     return `Hola, ${nombre}!`;
 }
+
+function saludarPorHora(hora) {
+    if (typeof hora !== 'number' || hora < 0 || hora > 23) {
+        throw new Error('La hora debe ser un número entre 0 y 23');
+    }
+    if (hora < 12) {
+        return 'Buenos días';
+    } else if (hora < 18) {
+        return 'Buenas tardes';
+    } else {
+        return 'Buenas noches';
+    }
+}

@@ -19,16 +19,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ea212ecd7b169f96ca054ebeb216d2512a5af86e",
     "author": "Ostin",
     "commit": {
       "date": "2025-08-21T12:33:11.000Z",
       "message": "Feat: saludar por nombre",
-      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+      "url": "https://github.com/pololi15/IngSoftware3/commit/ea212ecd7b169f96ca054ebeb216d2512a5af86e"
     },
     "stats": {
       "total": 6,
       "additions": 6,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-21T12:35:26.000Z",
+      "message": "Feat: saludar por hora",
+      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
       "deletions": 0,
       "date": "2025-08-21"
     },
