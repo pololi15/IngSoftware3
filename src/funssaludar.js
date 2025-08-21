@@ -1,7 +1,4 @@
-function saludar() {
-    if (typeof nombre !== 'string' || nombre.trim() === '') {
-        throw new Error('El nombre debe ser una cadena no vacía');
-    }
+function saludar1() {
     return `Hola ok`;
 }
 
@@ -52,3 +49,13 @@ function saludarEspaniol() {
 function saludarIngles() {
     return 'Hello, how are you?';
 }
+
+export default {  
+    saludar1,
+    saludar,
+    saludarPorHora,
+    saludarNombreGenero,
+    saludarNombreEdad,
+    saludarEspaniol,
+    saludarIngles
+};
