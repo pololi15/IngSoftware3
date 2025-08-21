@@ -48,3 +48,7 @@ function saludarNombreEdad(nombre, edad) {
 function saludarEspaniol() {
     return 'Hola, ¿cómo estás?';
 }
+
+function saludarIngles() {
+    return 'Hello, how are you?';
+}

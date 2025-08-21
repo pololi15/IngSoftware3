@@ -95,11 +95,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "81a6524d46fecd3a1b4450cd08a111f0360032b6",
     "author": "Ostin",
     "commit": {
       "date": "2025-08-21T12:39:53.000Z",
       "message": "saludar en espaniol",
+      "url": "https://github.com/pololi15/IngSoftware3/commit/81a6524d46fecd3a1b4450cd08a111f0360032b6"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-21T12:40:30.000Z",
+      "message": "saludar en ingles",
       "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
     },
     "stats": {
