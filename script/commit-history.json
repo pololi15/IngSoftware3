@@ -1,15 +1,34 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "746d8b974f77d08bd4610f1e43d90f7701d30beb",
     "author": "Ostin",
     "commit": {
       "date": "2025-08-21T12:30:35.000Z",
       "message": "Func saludar ok",
-      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+      "url": "https://github.com/pololi15/IngSoftware3/commit/746d8b974f77d08bd4610f1e43d90f7701d30beb"
     },
     "stats": {
       "total": 7,
       "additions": 7,
+      "deletions": 0,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-21T12:33:11.000Z",
+      "message": "Feat: saludar por nombre",
+      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
       "deletions": 0,
       "date": "2025-08-21"
     },
