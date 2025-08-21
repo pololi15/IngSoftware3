@@ -24,3 +24,13 @@ function saludarPorHora(hora) {
         return 'Buenas noches';
     }
 }
+
+function saludarNombreGenero(nombre, genero) {
+    if (typeof nombre !== 'string' || nombre.trim() === '') {
+        throw new Error('El nombre debe ser una cadena no vacía');
+    }
+    if (genero !== 'masculino' && genero !== 'femenino') {
+        throw new Error('El género debe ser "masculino" o "femenino"');
+    }
+    return `Hola, ${nombre} (${genero})!`;
+}
