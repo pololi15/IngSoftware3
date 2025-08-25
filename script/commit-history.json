@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6cf8a2ea8f3c9278fb6fa213733967f2ccd13fd0",
     "author": "Ostin",
     "commit": {
       "date": "2025-08-21T13:32:05.000Z",
       "message": "Incorpore todo",
-      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+      "url": "https://github.com/pololi15/IngSoftware3/commit/6cf8a2ea8f3c9278fb6fa213733967f2ccd13fd0"
     },
     "stats": {
       "total": 69,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Ostin",
+    "commit": {
+      "date": "2025-08-25T00:20:33.000Z",
+      "message": "agregue las pruebas",
+      "url": "https://github.com/pololi15/IngSoftware3/commit/HEAD"
+    },
+    "stats": {
+      "total": 56,
+      "additions": 55,
+      "deletions": 1,
+      "date": "2025-08-25"
+    },
+    "coverage": 75,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
